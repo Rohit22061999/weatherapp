@@ -1,0 +1,35 @@
+.card{
+    width:211px;
+    border-radius: 5%;
+    background: #051258b0;
+    color:black;
+    margin-left: 3%;
+}
+.card:hover{transform: scale(1.1);}
+.card-img-top{
+    width:44%
+}
+
+.headingh1{
+    text-align:center;
+    color:rgb(255, 255,255);
+    text-shadow: 2px 2px #28346c}
+
+.max{
+    color:rgb(166, 226,236)
+}
+.min{
+    color:rgb(104, 155,241)
+}
+
+.day{
+    color:rgb(12, 12, 12)
+}
+.humid{
+    color:rgb(8, 8, 8)
+}
+.topTemp{
+    font-size: 26px;
+    color:rgb(8, 8, 8);
+    font-weight:bold;
+}
